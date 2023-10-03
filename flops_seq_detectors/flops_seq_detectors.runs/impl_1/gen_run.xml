@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchTime="1689065972">
+  <File Type="ROUTE-PWR" Name="seq_detect_0110_overlap_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="d_ff.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="seq_detect_0110_overlap_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="d_ff_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="d_ff.msk"/>
+  <File Type="ROUTE-CLK" Name="seq_detect_0110_overlap_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="d_ff.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="seq_detect_0110_overlap_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="d_ff.bit"/>
+  <File Type="BG-DRC" Name="d_ff.drc"/>
+  <File Type="BG-BGN" Name="d_ff.bgn"/>
+  <File Type="BG-BIN" Name="d_ff.bin"/>
+  <File Type="BITSTR-RBT" Name="d_ff.rbt"/>
+  <File Type="BITSTR-NKY" Name="d_ff.nky"/>
+  <File Type="BITSTR-BMM" Name="d_ff_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="d_ff.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="seq_detect_0110_overlap_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="d_ff.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="seq_detect_0110_overlap_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="d_ff.ltx"/>
+  <File Type="BOOT-PDI-FILE" Name="d_ff_soc.pdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="NPI_FILE" Name="d_ff.npi"/>
+  <File Type="OPT-DRC" Name="seq_detect_0110_overlap_drc_opted.rpt"/>
+  <File Type="RBD_FILE" Name="d_ff.rbd"/>
+  <File Type="OPT-HWDEF" Name="d_ff.hwdef"/>
+  <File Type="PLACE-IO" Name="seq_detect_0110_overlap_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="seq_detect_0110_overlap_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="seq_detect_0110_overlap_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="seq_detect_0110_overlap_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="d_ff_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="seq_detect_0110_overlap_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="seq_detect_0110_overlap_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="seq_detect_0110_overlap_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="seq_detect_0110_overlap_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="seq_detect_0110_overlap_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="d_ff_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="d_ff_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="d_ff_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="seq_detect_0110_overlap_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="d_ff_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="seq_detect_0110_overlap_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="seq_detect_0110_overlap_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="seq_detect_0110_overlap_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="seq_detect_0110_overlap_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="seq_detect_0110_overlap_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="d_ff_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="d_ff_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="d_ff_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="d_ff_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="d_ff_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="d_ff_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="d_ff_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="seq_detect_0110_overlap_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="seq_detect_0110_overlap_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="seq_detect_0110_overlap_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="seq_detect_0110_overlap_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="seq_detect_0110_overlap_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="seq_detect_0110_overlap_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="seq_detect_0110_overlap_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="d_ff.pdi"/>
+  <File Type="PL-PDI-FILE" Name="d_ff_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="d_ff.rcfi"/>
+  <File Type="CFI_FILE" Name="d_ff.cfi"/>
+  <File Type="RNPI_FILE" Name="d_ff.rnpi"/>
+  <File Type="ROUTE-RQS" Name="d_ff_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="d_ff_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/d_ff.v">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/d_ff.v"/>
+        <Attr Name="ImportTime" Val="1689065713"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/jk_ff.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/jk_ff.v"/>
+        <Attr Name="ImportTime" Val="1689066841"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sr_ff.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/sr_ff.v"/>
+        <Attr Name="ImportTime" Val="1689067344"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/t_ff.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/t_ff.v"/>
+        <Attr Name="ImportTime" Val="1689062177"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/decoder_3_8.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/decoder_3_8.v"/>
+        <Attr Name="ImportTime" Val="1689009354"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mux_4_1.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/mux_4_1.v"/>
+        <Attr Name="ImportTime" Val="1689005035"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/basic_gates_dflow.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/basic_gates_dflow.v"/>
+        <Attr Name="ImportTime" Val="1689078660"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/basic_gates_behav.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/new/basic_gates_behav.v"/>
+        <Attr Name="ImportTime" Val="1689078623"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/design_1/design_1.bd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../Documents/starter/starter.srcs/sources_1/bd/design_1/design_1.bd"/>
+        <Attr Name="ImportTime" Val="1696350431"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="d_ff"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

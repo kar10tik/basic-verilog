@@ -1,0 +1,87 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.gen/sources_1/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/basic_gates_behav.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module basic_gates_behav
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/basic_gates_dflow.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module basic_gates_dflow
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/d_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_ff
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'd' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/d_ff.v:27]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'q' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/d_ff.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/decoder_3_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_3_8
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'A' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/decoder_3_8.v:26]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'Y' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/decoder_3_8.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/jk_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jk_ff
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'j' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/jk_ff.v:26]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'q' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/jk_ff.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/mux_4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4_1
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'I0' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/mux_4_1.v:27]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'Y' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/mux_4_1.v:28]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/sr_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sr_ff
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 's' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/sr_ff.v:26]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'q' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/sr_ff.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/t_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module t_ff
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 't' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/t_ff.v:5]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'q' is not allowed [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/t_ff.v:6]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/shiftreg_4_bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftreg_4_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/transition_high.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module transition_high
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/seq_complementer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_complementer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/seqdetect_1010_overlap.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seqdetect_1010_overlap
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/sgn_mag_2_2comp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sgn_mag_2_2comp
+WARNING: [VRFC 10-3380] identifier 'SIZE' is used before its declaration [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/sgn_mag_2_2comp.v:24]
+WARNING: [VRFC 10-3380] identifier 'SIZE' is used before its declaration [C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/sgn_mag_2_2comp.v:25]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/seq_detect_1001_overlap.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_detect_1001_overlap
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sources_1/new/seq_detect_0110_overlap.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_detect_0110_overlap
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/shiftreg_4bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftreg_4bit_tb
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/shiftreg_4bit_tb.v:32]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/sr_ff_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sr_ff_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/jk_ff_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jk_ff_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/d_ff_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_ff_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/t_ff_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module t_ff_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/decoder_3_8_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_3_8_tb
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/decoder_3_8_tb.v:32]
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/decoder_3_8_tb.v:33]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/mux_4_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_4_1_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_dflow_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module basic_gates_dflow_tb
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_dflow_tb.v:33]
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_dflow_tb.v:34]
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_dflow_tb.v:35]
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_dflow_tb.v:36]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_behav_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module basic_gates_behav_tb
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_behav_tb.v:32]
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_behav_tb.v:33]
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_behav_tb.v:34]
+WARNING: [VRFC 10-965] invalid size of integer constant literal [C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/basic_gates_behav_tb.v:35]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/transition_high_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module transition_high_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/seqdetect_1010_overlap_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seqdetect_1010_overlap_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/seq_complementer_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_complementer_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/sgn_mag_2_2comp_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sgn_mag_2_2comp_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/seq_detect_1001_overlap_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_detect_1001_overlap_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/karti/Documents/starter/starter.srcs/sim_1/new/seq_detect_0110_overlap_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seq_detect_0110_overlap_tb

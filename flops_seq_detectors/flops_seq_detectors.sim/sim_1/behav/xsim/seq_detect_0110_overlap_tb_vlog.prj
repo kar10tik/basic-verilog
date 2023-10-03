@@ -1,0 +1,39 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../starter.gen/sources_1/bd/design_1/sim/design_1.v" \
+"../../../../starter.srcs/sources_1/new/basic_gates_behav.v" \
+"../../../../starter.srcs/sources_1/new/basic_gates_dflow.v" \
+"../../../../starter.srcs/sources_1/new/d_ff.v" \
+"../../../../starter.srcs/sources_1/new/decoder_3_8.v" \
+"../../../../starter.srcs/sources_1/new/jk_ff.v" \
+"../../../../starter.srcs/sources_1/new/mux_4_1.v" \
+"../../../../starter.srcs/sources_1/new/sr_ff.v" \
+"../../../../starter.srcs/sources_1/new/t_ff.v" \
+"../../../../starter.srcs/sources_1/new/shiftreg_4_bit.v" \
+"../../../../starter.srcs/sources_1/new/transition_high.v" \
+"../../../../starter.srcs/sources_1/new/seq_complementer.v" \
+"../../../../starter.srcs/sources_1/new/seqdetect_1010_overlap.v" \
+"../../../../starter.srcs/sources_1/new/sgn_mag_2_2comp.v" \
+"../../../../starter.srcs/sources_1/new/seq_detect_1001_overlap.v" \
+"../../../../starter.srcs/sources_1/new/seq_detect_0110_overlap.v" \
+"../../../../starter.srcs/sim_1/new/shiftreg_4bit_tb.v" \
+"../../../../starter.srcs/sim_1/new/sr_ff_tb.v" \
+"../../../../starter.srcs/sim_1/new/jk_ff_tb.v" \
+"../../../../starter.srcs/sim_1/new/d_ff_tb.v" \
+"../../../../starter.srcs/sim_1/new/t_ff_tb.v" \
+"../../../../starter.srcs/sim_1/new/decoder_3_8_tb.v" \
+"../../../../starter.srcs/sim_1/new/mux_4_1_tb.v" \
+"../../../../starter.srcs/sim_1/new/basic_gates_dflow_tb.v" \
+"../../../../starter.srcs/sim_1/new/basic_gates_behav_tb.v" \
+"../../../../starter.srcs/sim_1/new/transition_high_tb.v" \
+"../../../../starter.srcs/sim_1/new/seqdetect_1010_overlap_tb.v" \
+"../../../../starter.srcs/sim_1/new/seq_complementer_tb.v" \
+"../../../../starter.srcs/sim_1/new/sgn_mag_2_2comp_tb.v" \
+"../../../../starter.srcs/sim_1/new/seq_detect_1001_overlap_tb.v" \
+"../../../../starter.srcs/sim_1/new/seq_detect_0110_overlap_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
